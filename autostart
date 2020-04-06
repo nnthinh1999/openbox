@@ -1,0 +1,8 @@
+tint2 &
+picom --config $HOME/.config/openbox/picom.conf &
+nitrogen --restore &
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+xfce4-power-manager &
+volumeicon &
+nm-applet &
+/usr/lib/notification-daemon-1.0/notification-daemon &
